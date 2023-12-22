@@ -51,6 +51,7 @@ body {
 }
 
 .table {
+  width: 1028px;
   background-color: #212121;
   text-align: start;
 }
